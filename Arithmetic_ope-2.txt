@@ -1,0 +1,49 @@
+**Write a python program to perform arithmetic operations used user input**
+
+a = int(input("Enter first number : "))
+
+b = int(input("Enter second number : "))
+
+add = a+b
+
+sub = a-b
+
+mul = a*b
+
+div = a/b
+
+mod = a%b
+
+fd = a//b
+
+ex = a**b
+
+print(add)
+
+print(sub)
+
+print(mul)
+
+print(div)
+
+print(mod)
+
+print(fd)
+
+print(ex)
+
+OUTPUT:
+Enter first number : 60
+Enter second number : 40
+100
+
+20
+
+2400
+
+1.5
+
+20
+
+1
+1336749453884373406783884597657600

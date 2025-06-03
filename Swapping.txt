@@ -1,0 +1,64 @@
+**Write a python program to accept two numbers and perform swapping of two numbers**
+
+1..
+
+x = 5
+
+y = 7
+
+print("Before swapping : ",x,y)
+
+x = x+y
+
+y = x-y
+
+x = x-y
+
+print("After swapping : ",x,y)
+
+OUTPUT: 
+Before swapping :  5 7
+After swapping :  7 5
+
+2..
+
+x,y = 5
+,7
+print("Before swapping : ",x,y)
+
+x,y = y,x
+print("After swapping : ",x,y)
+
+3..
+
+x = 10
+y = 20
+print("Before swapping : ",x,y)
+
+x = x+y
+
+y = x//y
+
+x = x//y
+
+print("After swapping : ",x,y)
+
+OUTPUT: 
+Before swapping :  10 20
+After swapping :  30 1
+
+4..
+
+x,y = 10,20
+temp = x
+x = y
+y = temp
+print("x : ",x)
+print("y : ",y)
+
+OUTPUT: 
+x :  20
+
+y :  10
+
+

@@ -1,0 +1,48 @@
+ 0**Write a python program to perform arithmetic operations.**
+
+a = 10
+
+b = 30
+
+add = a+b
+
+sub = a-b
+
+mul = a*b
+
+div = a/b
+
+mod = a%b
+
+fd = a//b
+
+ex = a**b
+
+print(add)
+
+print(sub)
+
+print(mul)
+
+print(div)
+
+print(mod)
+
+print(fd)
+
+print(ex)
+
+OUTPUT:
+40
+
+-20
+
+300
+
+0.3333333333333333
+
+10
+
+0
+
+1000000000000000000000000000000
